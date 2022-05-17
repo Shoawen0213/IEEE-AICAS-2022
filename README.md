@@ -1,7 +1,6 @@
 # IEEE-AICAS-2022
 Our submitted paper is accepted by the Technical Program Committee for presentation at AICAS 2022.
 
-# Paper accepted by the Technical Program Committee for presentation at IEEE AICAS 2022. 
 
 ## Data description
 | File NAME                                                             | decription                            |
