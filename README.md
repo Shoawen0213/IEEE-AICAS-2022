@@ -1,6 +1,6 @@
 # IEEE-AICAS-2022
 Our submitted paper is accepted by the Technical Program Committee for presentation at AICAS 2022. https://aicas2022.org/
-
+![image](https://github.com/Shoawen0213/IEEE-AICAS-2022/blob/main/AICAS%202022.JPG)
 ## Data description
 | File NAME                                                             | decription                            |
 | ----------------------------------------------------------------------|:-------------------------------------:|
